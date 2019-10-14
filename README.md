@@ -4,7 +4,7 @@ This Repo contains four simple RL Environements created with ML-Agents in Unity 
 
 - ### Cart Pole
 
-  <img src="https://github.com/jw1401/Envs/blob/master/media/CartPole.PNG" width="480">
+  <img src="https://github.com/jw1401/Environments/blob/master/media/CartPole.PNG" width="480">
   
   - Task: Balance a pole on a cart
   - Vector Obs
@@ -12,7 +12,7 @@ This Repo contains four simple RL Environements created with ML-Agents in Unity 
  
  - ### Roller Ball
    
-   <img src="https://github.com/jw1401/Envs/blob/master/media/RollerBall.PNG" width="480">
+   <img src="https://github.com/jw1401/Environments/blob/master/media/RollerBall.PNG" width="480">
  
    - Task: Move Ball to target
    - Vector Obs
@@ -20,7 +20,7 @@ This Repo contains four simple RL Environements created with ML-Agents in Unity 
  
  - ### Ball Sorter
  
-   <img src="https://github.com/jw1401/Envs/blob/master/media/BallSorter.PNG" width="480">
+   <img src="https://github.com/jw1401/Environments/blob/master/media/BallSorter.PNG" width="480">
    
    - Task: Sort a ball based on its color (red, green, blue)
    - Vector and Visual Obs
@@ -28,7 +28,7 @@ This Repo contains four simple RL Environements created with ML-Agents in Unity 
    
  - ### Ball Sorter Visual Obs
  
-    <img src="https://github.com/jw1401/Envs/blob/master/media/BallSorter.PNG" width="480">
+    <img src="https://github.com/jw1401/Environments/blob/master/media/BallSorter.PNG" width="480">
   
    - Task: Sort a ball based on its color (red, green, blue)
    - Visual Obs
